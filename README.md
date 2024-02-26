@@ -34,8 +34,8 @@
 ### Tools
 <a href="https://code.visualstudio.com/"><img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" /></a>
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />
-<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/figma-F08080.svg?&style=for-the-badge&logo=figma&logoColor=fff" /></a>
 <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" /></a>
+<a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/figma-F08080.svg?&style=for-the-badge&logo=figma&logoColor=fff" /></a>
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />
 <a href="https://www.adobe.com/products/photoshop.html"><img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" /></a>
 
