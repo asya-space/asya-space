@@ -24,20 +24,20 @@
 
 ### :computer: Tech Stack:
 
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />
-<a href="https://caniuse.com/"><img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" /></a>
+<a href="#"><img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" /></a>
+<a href="#"><img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" /></a>
 <a href="https://sass-lang.com/"><img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" /></a>
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />
+<a href="#"><img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" /></a>
 <a href="https://nodejs.org/en"><img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" /></a>
 <a href="https://getbootstrap.com/"><img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" /></a>
 <a href="https://www.markdownguide.org/"><img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" /></a>
 
 ### Tools
 <a href="https://code.visualstudio.com/"><img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" /></a>
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />
+<a href="#"><img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" /></a>
 <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" /></a>
 <a href="https://www.figma.com/"><img alt="figma" src="https://img.shields.io/badge/figma-F08080.svg?&style=for-the-badge&logo=figma&logoColor=fff" /></a>
-<img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />
+<a href="#"><img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" /></a>
 
 
