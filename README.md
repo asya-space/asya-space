@@ -1,7 +1,7 @@
 ### Hello World 👋
 <picture>
-	<source src="https://i.ibb.co/tYpW6Wy/banner.webp">  
-	<img src="https://i.ibb.co/tYpW6Wy/banner.webp" alt="banner">
+	<source src="[https://i.ibb.co/tYpW6Wy/banner.webp](https://ibb.co/P1GfyfB)">  
+	<img src="[https://i.ibb.co/tYpW6Wy/banner.webp](https://ibb.co/P1GfyfB)" alt="banner">
 	</picture>
 <div align="center">
   <a href="https://github.com/asyaLebedeva?tab=repositories&sort=stargazers">
