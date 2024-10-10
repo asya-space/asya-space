@@ -14,9 +14,9 @@
 
 ### My name is Asya and I'm a junior front-end developer
 - :triangular_flag_on_post: I’m from Saint-Petersburg
-- :seedling: 1.5 + Years experience in Front-end Development
-- :musical_score: created [audioplayer](https://asyalebedeva.github.io/musician-blog/) by myself
-- :milky_way: I’m currently learning TailwindCSS
+- :seedling: you can view my [personal website](https://asyaspace.com/)
+- :musical_score: created [audioplayer](https://asyalebedeva.github.io/musician-blog/)
+- :milky_way: recently learned TailwindCSS
 
 ### Contact me
 <div><a href="https://www.instagram.com/asyajunessa?igsh=MTN3cDl6OWpmZ3F4dw=="><img alt="asyajunessa | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
