@@ -13,7 +13,6 @@
 </div>
 
 ### My name is Asya and I'm a junior front-end developer
-- :triangular_flag_on_post: I’m from Saint-Petersburg
 - :seedling: you can view my [personal website](https://asyaspace.com/)
 - :musical_score: created [audioplayer](https://asyalebedeva.github.io/musician-blog/)
 - :milky_way: recently learned TailwindCSS
