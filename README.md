@@ -1,7 +1,7 @@
 ### Hello World 👋
 <picture>
 	<source src="https://i.ibb.co/YQPDLM6/Futuristic-Digital-Background-Linked-In-Banner.png">  
-	<img src="https://i.ibb.co/YQPDLM6/Futuristic-Digital-Background-Linked-In-Banner.png" alt="banner">
+	<img src="https://i.ibb.co/zVjXZRQ/Dark-Grey-and-Red-Modern-Manager-Linked-In-Career-Page-Background.png" alt="banner">
 	</picture>
 <div align="center">
   <a href="https://github.com/asyaLebedeva?tab=repositories&sort=stargazers">
