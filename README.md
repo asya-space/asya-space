@@ -4,22 +4,22 @@
 	<img src="https://i.ibb.co/zVjXZRQ/Dark-Grey-and-Red-Modern-Manager-Linked-In-Career-Page-Background.png" alt="banner">
 	</picture>
 <div align="center">
-  <a href="https://github.com/asyaLebedeva?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=864986&labelColor=ED23ED&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asyaLebedeva"/></a>
-  <a href="https://github.com/asyaLebedeva?tab=repositories&sort=stargazers">
-   <!-- <img alt="total forks" title="forks" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/asyaLebedeva"/></a>-->
-  <a href="https://github.com/asyaLebedeva">
-    <img alt="followers" title="my followers" src="https://custom-icon-badges.herokuapp.com/github/followers/asyaLebedeva?color=0748A3&labelColor=1973F3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=864986&labelColor=ED23ED&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asyacloud"/></a>
+  <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
+   <!-- <img alt="total forks" title="forks" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/asyacloud"/></a>-->
+  <a href="https://github.com/asyacloud">
+    <img alt="followers" title="my followers" src="https://custom-icon-badges.herokuapp.com/github/followers/asyacloud?color=0748A3&labelColor=1973F3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
 ### My name is Asya and I'm a junior front-end developer
 - :seedling: you can view my [personal website](https://asyacloud.net/)
-- :musical_score: created [audioplayer](https://asyalebedeva.github.io/musician-blog/)
+- :musical_score: created [audioplayer](https://asyacloud.github.io/musician-blog/)
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
 <div><a href="https://www.instagram.com/asyajunessa?igsh=MTN3cDl6OWpmZ3F4dw=="><img alt="asyajunessa | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
-<div><a href="https://www.facebook.com/schickfrau/(https://www.facebook.com/schickfrau/)"><img alt="asyaLebedeva | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
+<div><a href="https://www.facebook.com/asyacloud/(https://www.facebook.com/schickfrau/)"><img alt="asyacloud | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
@@ -41,7 +41,7 @@
 
 
 <!--
-**asyaLebedeva/asyaLebedeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asyacloud/asyacloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
