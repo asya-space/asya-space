@@ -19,7 +19,7 @@
 
 ### Contact me
 <div><a href="https://www.instagram.com/asyajunessa?igsh=MTN3cDl6OWpmZ3F4dw=="><img alt="asyajunessa | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
-<div><a href="https://www.facebook.com/asyacloud/(https://www.facebook.com/schickfrau/)"><img alt="asyacloud | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
+<div><a href="https://www.facebook.com/asyacloud/(https://www.facebook.com/asyacloud/)"><img alt="asyacloud | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
