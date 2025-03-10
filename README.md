@@ -1,7 +1,7 @@
 ### Hello World 👋
 <picture>
-	<source src="https://i.ibb.co/YQPDLM6/Futuristic-Digital-Background-Linked-In-Banner.png">  
-	<img src="https://i.ibb.co/zVjXZRQ/Dark-Grey-and-Red-Modern-Manager-Linked-In-Career-Page-Background.png" alt="banner">
+	<source src="https://i.ibb.co/ZzTTBDwd/star-asyaspace-com.png">  
+	<img src="https://i.ibb.co/ZzTTBDwd/star-asyaspace-com.png" alt="star-asyaspace-com">
 	</picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
@@ -18,7 +18,7 @@
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
-<div><a href="https://www.instagram.com/asyajunessa?igsh=MTN3cDl6OWpmZ3F4dw=="><img alt="asyajunessa | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
+<div><a href="https://www.instagram.com/runnerasya?igsh=bDZ0Ym54NWViOHJm"><img alt="asyarunner | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
 <div><a href="https://www.facebook.com/asyacloud"><img alt="asyacloud | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
