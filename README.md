@@ -1,7 +1,7 @@
 ### Hello World 👋
 <picture>
-	<source src="https://i.ibb.co/ZzTTBDwd/star-asyaspace-com.png">  
-	<img src="https://i.ibb.co/ZzTTBDwd/star-asyaspace-com.png" alt="star-asyaspace-com">
+	<source src="https://i.ibb.co/7dg6j1yt/star-asyascloud-net.png">  
+	<img src="https://i.ibb.co/7dg6j1yt/star-asyascloud-net.png" alt="star-asyacloud-net">
 	</picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
