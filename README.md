@@ -13,7 +13,7 @@
 </div>
 
 ### My name is Asya and I'm a junior front-end developer
-- :seedling: you can view my [personal website](https://asyacloud.net/)
+- :seedling: you can view my [personal website](https://asyaspace.com/)
 - :musical_score: created [audioplayer](https://asyacloud.github.io/musician-blog/)
 - :milky_way: recently learned TailwindCSS
 
