@@ -1,7 +1,7 @@
 ### Hello World 👋
 <picture>
-	<source src="https://i.ibb.co/7dg6j1yt/star-asyascloud-net.png">  
-	<img src="https://i.ibb.co/7dg6j1yt/star-asyascloud-net.png" alt="star-asyacloud-net">
+	<source src="https://i.ibb.co/d4Nb3YnL/1.png">  
+	<img src="https://i.ibb.co/d4Nb3YnL/1.png" alt="banner asyaspace">
 	</picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
@@ -14,12 +14,11 @@
 
 ### My name is Asya and I'm a junior front-end developer
 - :seedling: you can view my [personal website](https://asyaspace.com/)
-- :musical_score: created [audioplayer](https://asyacloud.github.io/musician-blog/)
+- :musical_score: created [audioplayer](https://asya-space.github.io/musician-blog/)
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
 <div><a href="https://www.instagram.com/runnerasya?igsh=bDZ0Ym54NWViOHJm"><img alt="asyarunner | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
-<div><a href="https://www.facebook.com/asyacloud"><img alt="asyacloud | Facebook" src="https://img.shields.io/badge/facebook-1DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
