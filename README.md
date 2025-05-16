@@ -5,11 +5,11 @@
 	</picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=864986&labelColor=ED23ED&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asyacloud"/></a>
-  <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=864986&labelColor=ED23ED&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asya-space"/></a>
+  <a href="https://github.com/asya-space?tab=repositories&sort=stargazers">
    <!-- <img alt="total forks" title="forks" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/asyacloud"/></a>-->
-  <a href="https://github.com/asyacloud">
-    <img alt="followers" title="my followers" src="https://custom-icon-badges.herokuapp.com/github/followers/asyacloud?color=0748A3&labelColor=1973F3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/asya-space">
+    <img alt="followers" title="my followers" src="https://custom-icon-badges.herokuapp.com/github/followers/asya-space?color=0748A3&labelColor=1973F3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
 ### My name is Asya and I'm a junior front-end developer
@@ -18,7 +18,7 @@
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
-<div><a href="https://www.instagram.com/runnerasya?igsh=bDZ0Ym54NWViOHJm"><img alt="asyarunner | Instagram" src="https://img.shields.io/badge/instagram-CE85E7.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></div>
+<div><a href="[https://www.instagram.com/runnerasya?igsh=bDZ0Ym54NWViOHJm](https://www.linkedin.com/in/asya-frontend/)(https://www.linkedin.com/in/asya-frontend/)"><img alt="asyafrontend | Linkedin" src="https://img.shields.io/badge/Linkedin-CE85E7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
