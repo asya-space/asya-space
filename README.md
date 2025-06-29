@@ -1,5 +1,6 @@
 ### Hello World 👋
-<picture>![image](https://github.com/user-attachments/assets/03bf4e76-b57a-401c-a4f9-71494eeec932)</picture>
+<picture>![image](https://github.com/user-attachments/assets/98029f24-408f-41a9-9c94-843fd94d0445)
+</picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
     <img alt="total stars" title="stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=864986&labelColor=ED23ED&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asya-space"/></a>
