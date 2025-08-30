@@ -1,5 +1,6 @@
 ### Hello World 👋
-<picture>![image](https://github.com/user-attachments/assets/98029f24-408f-41a9-9c94-843fd94d0445)
+<picture>!<img width="1120" height="187" alt="image" src="https://github.com/user-attachments/assets/5e469d3c-9bc2-410a-9790-8330c840b90a" />
+
 </picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
