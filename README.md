@@ -1,5 +1,6 @@
 ### Hello World 👋
-<picture> <img width="1007" height="187" alt="image" src="https://github.com/user-attachments/assets/8569af6c-32d1-49e6-8742-b415d37bd9d6" />
+<picture> <img width="923" height="183" alt="image" src="https://github.com/user-attachments/assets/e3330743-398c-41fd-81c0-f0afab668dae" />
+
 
 
 
