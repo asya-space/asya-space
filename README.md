@@ -16,7 +16,8 @@
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
-<div><a href="https://www.linkedin.com/in/asya-webdev"><img alt="asyawebdev | Linkedin" src="https://img.shields.io/badge/Linkedin-CE85E7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
+<div><a href="https://www.linkedin.com/in/asya-webdev"><img alt="asyawebdev | Linkedin" src="https://img.shields.io/badge/Linkedin-CE85E7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:star@asyaspace.com"><img alt="Star | Gmail" src="https://img.shields.io/badge/Gmail-F527B0.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
