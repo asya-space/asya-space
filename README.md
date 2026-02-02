@@ -1,11 +1,5 @@
 ### Hello World 👋
 <picture> <img width="923" height="183" alt="image" src="https://github.com/user-attachments/assets/e3330743-398c-41fd-81c0-f0afab668dae" />
-
-
-
-
-
-
 </picture>
 <div align="center">
   <a href="https://github.com/asyacloud?tab=repositories&sort=stargazers">
@@ -22,7 +16,7 @@
 - :milky_way: recently learned TailwindCSS
 
 ### Contact me
-<div><a href="https://www.linkedin.com/in/asya-frontend"><img alt="asyafrontend | Linkedin" src="https://img.shields.io/badge/Linkedin-CE85E7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
+<div><a href="https://www.linkedin.com/in/asya-webdev"><img alt="asyawebdev | Linkedin" src="https://img.shields.io/badge/Linkedin-CE85E7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 
 ### :computer: Tech Stack:
 
