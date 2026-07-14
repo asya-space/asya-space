@@ -16,7 +16,6 @@ Tech Stack
 - JavaScript (Vanilla)
 - HTML5 / CSS3
 - Sass
-- Tailwind CSS
 - Vite
 - jQuery (legacy projects)
 - Swiper / Embla
